@@ -1,0 +1,8 @@
+08:37:31.708 [main] INFO  resources.TestBase - -------- Move to the ideintification page  
+08:37:35.442 [main] INFO  resources.TestBase - -------- End of registering process  
+08:37:42.778 [main] INFO  resources.TestBase - -------- Type Sender ID and password 
+08:37:44.574 [main] INFO  resources.TestBase - -------- Logout from the application  
+08:37:55.898 [main] INFO  resources.TestBase - -------- gmailLogin Type gmail ID
+08:37:56.260 [main] INFO  resources.TestBase - -------- gmailLogin Click Next
+08:37:56.514 [main] INFO  resources.TestBase - --------gmailLogin Type Sender password  ID
+08:37:57.570 [main] INFO  resources.TestBase - --------gmailLogin Click Next
