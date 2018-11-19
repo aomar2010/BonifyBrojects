@@ -1,8 +1,8 @@
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\common\SharedMethod.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\PageObjects\pomLoginPage.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\common\commonLogin.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\PageObjects\pomHomePage.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\resources\DesignInterface.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\resources\propertiesFile.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\PageObjects\pomMobilfunk.java
-C:\tools\apache-jmeter-5.0\task3\BonifyTask3\src\main\java\resources\TestBase.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\common\SharedMethod.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\PageObjects\pomMobilfunk.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\PageObjects\pomHomePage.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\resources\propertiesFile.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\resources\TestBase.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\PageObjects\pomLoginPage.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\resources\DesignInterface.java
+C:\tools\GitHubs\BonifyProjects\BonifyTask3\src\main\java\common\commonLogin.java
